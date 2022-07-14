@@ -9,6 +9,8 @@ func main() {
 	fmt.Printf(whatIsIt)
 }
 
+//Answer = Join:us:at:LINE:MAN:Wongnai
+
 func reverseStr(str string) (out string) {
     for _, s := range str {
         out = string(s) + out
